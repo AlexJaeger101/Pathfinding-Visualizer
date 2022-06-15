@@ -1,0 +1,9 @@
+screen_size 1440 896
+target_fps 24
+max_units 100
+unit_max_acc 250.0
+unit_max_speed 250.0
+unit_max_rot_acc 3.0
+unit_max_rot_vel 4.0
+asset_path ..\sharedAssets\
+game_time 200.0
